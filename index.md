@@ -21,6 +21,11 @@ I am an engineer and DIY enthusiast based in Provo, Utah. I specialize in electr
 * **Automotive:** 2009 Honda Accord engine swap and maintenance.
 * **Digital Mapping:** Created interactive maps for the Schofield and Portage cemeteries.
 
+## Project Gallery
+| ![Engine Swap](/assets/images/09Accord01.JPG) | ![Cemetery Map](/assets/images/map.jpg) |
+|:---:|:---:|
+| **2009 Honda Accord Swap** | **Digital Cemetery Mapping** |
+
 ### Genealogy & Community
 * **Family History:** Website administrator for the Thomas and Margaret John Family Organization.
 * **Local Guide:** Level 8 contributor to Google Maps.
