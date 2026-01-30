@@ -10,9 +10,10 @@ I am an engineer and DIY enthusiast based in Provo, Utah. I specialize in electr
 
 ## 🎓 Education & Experience
 * **B.S. Electrical Engineering** | Brigham Young University (2025)
-* **Ford Motor Co. Capstone** | Lead Developer for [Specific Project Detail]
+* **Ford Motor Co. Capstone** | Design and Prototype of Storage System for the F-150 Platform
 * **Tesla** | Data Labeling Specialist
-* **Drafting & Maintenance** | Experience in Civil Engineering and Land Surveying
+* **Marvellous Catering** | Managed Food Service Crews
+* **Uintah Engineering & Land Surveying** | AutoCAD Draftsman of Legal records
 
 ## 🛠️ Projects
 ### Engineering & Tech
