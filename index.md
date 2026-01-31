@@ -1,34 +1,44 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
 
 # James John
-**Electrical Engineer | Multi-Disciplinary Maker**
+**Electrical Engineer • Maker • Genealogist**
 
-I am an engineer and DIY enthusiast based in Provo, Utah. I specialize in electrical engineering, digital mapping, and technical restoration.
-
-## 🎓 Education & Experience
-* **B.S. Electrical Engineering** | Brigham Young University (2025)
-* **Ford Motor Co. Capstone** | Design and Prototype of Storage System for the F-150 Platform
-* **Tesla** | Data Labeling Specialist
-* **Marvellous Catering** | Managed Food Service Crews
-* **Uintah Engineering & Land Surveying** | AutoCAD Draftsman of Legal records
-
-## 🛠️ Projects
-### Engineering & Tech
-* **Custom NAS Build:** Configured a high-capacity storage solution using TrueNAS SCALE.
-* **Automotive:** 2009 Honda Accord engine swap and maintenance.
-* **Digital Mapping:** Created interactive maps for the Schofield and Portage cemeteries.
-
-## Project Gallery
-| ![Engine Swap](/assets/images/09Accord01.JPG) | ![Cemetery Map](/assets/images/map.jpg) |
-|:---:|:---:|
-| **2009 Honda Accord Swap** | **Digital Cemetery Mapping** |
-
-### Genealogy & Community
-* **Family History:** Website administrator for the Thomas and Margaret John Family Organization.
-* **Local Guide:** Level 8 contributor to Google Maps.
+[About](#about) | [Engineering](#engineering) | [Projects](#projects) | [Contact](#contact)
 
 ---
-[Download My Resume](/assets/resume.pdf) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Contact Me](mailto:contact@jamesdjohn.com)
+
+<a name="about"></a>
+## 👤 About Me
+I'm an Electrical Engineering graduate from BYU living in Provo, UT. I specialize in bridging the gap between hardware and software—whether that's through a **Ford Capstone project**, building **NAS servers**, or mapping historical cemeteries.
+
+---
+
+<a name="engineering"></a>
+## 🎓 Engineering & Experience
+* **Electrical Engineering, BYU:**
+* **Ford Capstone:** Iehicle integration systems.
+* **Tesla:** Technical data analysis and labeling.
+
+---
+
+<a name="projects"></a>
+## 🛠️ Personal Projects
+### 🚗 Automotive Restoration
+Currently performing a full engine swap on a **2009 Honda Accord**. This involves full harness integration and mechanical timing calibration.
+
+### 🗺️ Digital Mapping & GIS
+I develop KML/GIS tools to modernize cemetery records, specifically for the **Schofield and Portage** locations.
+
+### 💾 Home Infrastructure
+Built a custom **TrueNAS SCALE** server using an ASRock Z690 and RTX 3060 to manage 40TB+ of data and genealogy records.
+
+---
+
+<a name="contact"></a>
+## 📬 Contact
+* **Email:** [contact@jamesdjohn.com](mailto:contact@jamesdjohn.com)
+* **Web:** [jamesdjohn.com](https://jamesdjohn.com)
+* **GitHub:** [github.com/yourusername](https://github.com/yjjohn)
