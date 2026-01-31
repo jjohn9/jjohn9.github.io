@@ -1,17 +1,3 @@
-# Site Settings
-title: James John
-email: contact@jamesdjohn.com
-description: >- 
-  Electrical Engineer and Maker based in Provo, UT. 
-  Specializing in digital mapping, technical restoration, and DIY electronics.
-baseurl: "" # leave empty for yourusername.github.io
-url: 
-
-# Social Links
-twitter_username: James__John
-github_username: jjohn9 # Change this to your actual GitHub name
-
-# Build Settings
-theme: jekyll-theme-cayman # This gives it a clean, professional look instantly
-plugins:
-  - jekyll-feed
+title: James John | Electrical Engineer
+theme: jekyll-theme-architect # This theme has a great "one-page" sidebar feel
+remote_theme: pages-themes/architect@v0.2.0
