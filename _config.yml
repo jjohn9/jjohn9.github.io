@@ -1,3 +1,5 @@
-title: James John | Electrical Engineer
-theme: jekyll-theme-architect # This theme has a great "one-page" sidebar feel
+title: James John
+email: contact@jamesdjohn.com
+description: Electrical Engineer | BYU Graduate | Maker
+theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
