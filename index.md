@@ -4,41 +4,60 @@ title: Portfolio
 ---
 
 # James John
-**Electrical Engineer • Maker • Genealogist**
+**Electrical Engineer | Provo, UT**
 
-[About](#about) | [Engineering](#engineering) | [Projects](#projects) | [Contact](#contact)
-
----
-
-<a name="about"></a>
-## 👤 About Me
-I'm an Electrical Engineering graduate from BYU living in Provo, UT. I specialize in bridging the gap between hardware and software—whether that's through a **Ford Capstone project**, building **NAS servers**, or mapping historical cemeteries.
+[Education](#education) | [Skills](#skills) | [Experience](#experience) | [Service](#service) | [Contact](#contact)
 
 ---
 
-<a name="engineering"></a>
-## 🎓 Engineering & Experience
-* **Electrical Engineering, BYU:**
-* **Ford Capstone:** Iehicle integration systems.
-* **Tesla:** Technical data analysis and labeling.
+<a name="education"></a>
+## 🎓 Education
+**Brigham Young University** | *BS Electrical Engineering* | April 2025
+* **Senior Project (Ford Motor Co.):** Mechanical design and production using SolidWorks assemblies and BOM. Managed manufacturing principles, cost, and quality control.
+* **Junior Project (Laser Tag System):** Developed custom PCBs and embedded C code. Hand-soldered components and tested multi-player functionality.
 
 ---
 
-<a name="projects"></a>
-## 🛠️ Personal Projects
-### 🚗 Automotive Restoration
-Currently performing a full engine swap on a **2009 Honda Accord**. This involves full harness integration and mechanical timing calibration.
+<a name="skills"></a>
+## 🛠️ Skills & Interests
+* **CAD/3D Modeling:** SolidWorks, Fusion360, Revit, AutoCAD, Blender, Photogrammetry.
+* **Software/Coding:** Python, C, C++, System Verilog, MATLAB, LTSpice, Eagle, Microsoft Office, DaVinci Resolve.
+* **Hobbies & Experience:** Woodworking, Welding, Web Hosting (TrueNAS), Photography, Automotive (Engine Swaps), Conversational Spanish.
 
-### 🗺️ Digital Mapping & GIS
-I develop KML/GIS tools to modernize cemetery records, specifically for the **Schofield and Portage** locations.
+---
 
-### 💾 Home Infrastructure
-Built a custom **TrueNAS SCALE** server using an ASRock Z690 and RTX 3060 to manage 40TB+ of data and genealogy records.
+<a name="experience"></a>
+## 💼 Experience
+
+### **Tesla** | *Data Labeling Specialist* | Aug 2025 – Present
+* Maintained >99% quality score processing autonomous vehicle data for AI training.
+* Achieved 400% efficiency standard through documentation and predictable workflow.
+
+### **Central Utah Water Conservancy District** | *Seasonal Maintenance* | 2025
+* Maintained electrical, plumbing, and mechanical systems for a water treatment plant.
+* Self-directed an 8-hour schedule to manage a 24-acre industrial site.
+
+### **Marvelous Catering** | *Shift Lead* | 2022 – Present
+* Managed teams for high-pressure corporate events and logistics throughout Utah.
+
+### **CougarTech Repair (BYU Store)** | *Computer Technician* | 2020 – 2022
+* Diagnosed and repaired complex hardware and software issues for university clients.
+
+### **Uintah Engineering & Land Surveying** | *Draftsman* | 2014 – 2018
+* Transformed survey data into precise AutoCAD models and legal drawings.
+
+---
+
+<a name="service"></a>
+## 🤝 Service
+* **LDS Mission (Santiago, Chile):** Developed resilience and fluency in Spanish through community service.
+* **Eagle Scout (BSA):** Completed 143 Merit Badges and led large-scale community service projects.
 
 ---
 
 <a name="contact"></a>
-## 📬 Contact
+## 📬 Contact Information
 * **Email:** [contact@jamesdjohn.com](mailto:contact@jamesdjohn.com)
-* **Web:** [jamesdjohn.com](https://jamesdjohn.com)
-* **GitHub:** [github.com/yourusername](https://github.com/yjjohn)
+* **Phone:** 435-219-3600
+* **LinkedIn:** [linkedin.com/in/james-john-EE](https://linkedin.com/in/james-john-ee)
+* **Location:** Provo, UT
